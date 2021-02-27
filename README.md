@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on E-Commerce Full Stack Website
 - 🌱 I’m currently learning ReactJS
