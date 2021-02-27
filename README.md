@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anigounigoud@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing](https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
