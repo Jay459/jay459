@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm A.Jayanth Goud</h1>
 <h3 align="center">I enjoy working on the backend part and I love to build the products from scratch to production</h3>
 
+- 🔭 I’m currently working on **E-Commerce Full stack website**
+
 - 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **anything ready to help**
+
+- 📫 How to reach me **anigounigoud@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing](https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
