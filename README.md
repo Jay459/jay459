@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A.Jayanth Goud</h1>
+<h1 align="center">Hi 👋, I'm A. Jayanth Goud</h1>
 
 <h3 align="center">I enjoy working on the backend part and I love to build the products from scratch to production</h3>
 
