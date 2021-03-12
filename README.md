@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing">Resume</a>
 
-<img src="https://komarev.com/ghpvc/?username=jay459&label=Profile%20views&color=129e00&style=plastic"/>
+<img src="https://komarev.com/ghpvc/?username=jay459&label=Profile%20views&color=129e00&style=plastic"/> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Code-express%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/a-jayanth-goud-526b46176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="a-jayanth-goud-526b46176" height="30" width="40" /></a>
