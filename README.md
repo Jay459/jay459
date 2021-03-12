@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing">Resume</a>
 
-<img src="https://komarev.com/ghpvc/?username=jay459&label=Profile%20views"/> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&"/> <img src="https://img.shields.io/badge/Code-JavaScript-informational"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational"/> <img src="https://img.shields.io/badge/Tools-MongoDB-informational"/> <img src="https://img.shields.io/badge/Code-express%20Js-informational"/> <img src="https://img.shields.io/badge/Code-Node-informational"/>
+<img src="https://komarev.com/ghpvc/?username=jay459&label=Profile%20views"/> <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&"/> <img src="https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?logo=postgresql"/> <img src="https://img.shields.io/badge/Tools-MongoDB-informational?logo=mongodb"/> <img src="https://img.shields.io/badge/Code-express%20Js-informational?logo=express"/> <img src="https://img.shields.io/badge/Code-Node-informational?logo=node"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/a-jayanth-goud-526b46176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="a-jayanth-goud-526b46176" height="30" width="40" /></a>
