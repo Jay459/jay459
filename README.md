@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Full stack website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **KoaJS**
 
 - 💬 Ask me about **anything ready to help**
 
