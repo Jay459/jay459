@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **KoaJS**
 
-- 💬 Ask me about **anything ready to help**
+- 💬 Ask me about **ExpressJS and KoaJS**
 
 - 📫 How to reach me **anigounigoud@gmail.com**
 
