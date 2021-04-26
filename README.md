@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **E-Commerce Full stack website**
+- 🔭 I’m currently working on **KoaJS**
 
 - 🌱 I’m currently learning **KoaJS**
 
