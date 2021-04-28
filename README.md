@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Koa JS**
 
-- 🌱 I’m currently learning **KoaJS**
+- 🌱 I’m currently learning **Koa JS**
 
 - 💬 Ask me about **ExpressJS and KoaJS**
 
