@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **PostgreSQL & KoaJS**
+- 🔭 I’m currently working on **KoaJS**
 
-- 🌱 I’m currently learning **PostggreSQL & KoaJS**
+- 🌱 I’m currently learning **KoaJS**
 
 - 💬 Ask me about **ExpressJS and KoaJS**
 
