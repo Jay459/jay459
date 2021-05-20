@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anigounigoud@gmail.com**
 
-- 📄 click here for my resume <a href="https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing">Resume</a>
+- 📄 click here for my resume <a href="https://drive.google.com/file/d/1OKNOAQ5DfQaw1y6gkBzC9YjevLV4dfTB/view?usp=sharing">Resume.</a>
 
 <img src="https://komarev.com/ghpvc/?username=jay459&label=Profile%20views&style=plastic"/> <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&style=plastic"/> <img src="https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&style=plastic"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?logo=postgresql&style=plastic"/> <img src="https://img.shields.io/badge/Tools-MongoDB-informational?logo=mongodb&style=plastic"/> <img src="https://img.shields.io/badge/Code-express%20Js-informational?logo=express&style=plastic"/> <img src="https://img.shields.io/badge/Code-Node-informational?logo=node&style=plastic"/>
 <h3 align="left">Connect with me:</h3>
